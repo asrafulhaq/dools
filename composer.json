@@ -2,7 +2,7 @@
   "name": "asrafulhaque/php-image",
   "description": "This is a Test package",
   "type": "library",
-  "license": "IST",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Devzone\\": "src/"
