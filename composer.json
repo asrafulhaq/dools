@@ -1,0 +1,19 @@
+{
+  "name": "asrafulhaque/php-image",
+  "description": "This is a Test package",
+  "type": "library",
+  "license": "IST",
+  "autoload": {
+    "psr-4": {
+      "Devzone\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "asrafulhaq",
+      "email": "devvorb@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
